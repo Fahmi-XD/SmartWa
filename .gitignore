@@ -43,3 +43,6 @@ yarn.lock
 
 # Ignore local session data (jika menggunakan LocalAuth)
 session/
+
+# Development tester
+test/
